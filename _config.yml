@@ -9,7 +9,7 @@ name: Arjun Lokur
 description: Data Scientist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://imgur.com/a/IaZHdyN
+avatar: images/DataScience_Arjun_Lokur.jpg
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: https://github.com/arjunlokur
+  github: /arjunlokur
   instagram:
   linkedin: https://www.linkedin.com/in/arjun-lokur/
   pinterest:
