@@ -78,11 +78,10 @@ gems:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   
 #Modifying the theme
-theme: jekyll-theme-merlot
+theme: merlot@v0.2.0
 
 # Exclude these files from your production _site
 exclude:
-  - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
